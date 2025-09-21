@@ -1,3 +1,27 @@
+#  Todolist App
+
+Aplicación sencilla de lista de tareas hecha con **React**.  
+Permite agregar, completar y eliminar tareas.
+---
+
+## Uso
+
+1. Clonar repositorio:
+   ```bash
+   git clone https://github.com/juanpa-27181/Todolist-App.git
+   cd Todolist-App
+
+2. Instalar dependencias:
+  ```bash
+    npm install
+```
+3. Ejecutar en local:
+```bash
+    
+    npm run dev
+```
+
+
 # Hello World with React boilerplate
 
 Start coding a react application
